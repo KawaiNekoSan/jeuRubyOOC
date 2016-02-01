@@ -1,0 +1,1 @@
+Jean-Michel Paladin est prêt à partir à l’aventure mais son chemin est semé d’embûches. Il est cerné par ses ennemis, les affreux Balrog, Gobelin et Squelette qui l’empêchent d’avancer et d’arriver à destination. Jean-Michel Paladin doit faire preuve d’intelligence et de force pour venir à bout de ses ennemis avant d’être vaincu lui-même.
