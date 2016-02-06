@@ -122,7 +122,7 @@ class Jeu
     end
     fin_joueur = false
     if joueur.en_vie == false 
-        fin_joueur = false
+        fin_joueur = true
     end
     return true if fin_ennemis || fin_joueur
     else return false
